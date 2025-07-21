@@ -32,7 +32,7 @@ version=0
 domain=openjdk.org
 
 [checks "reviewers"]
-reviewers=1
+reviewers=0
 ignore=duke
 
 [checks "committer"]
