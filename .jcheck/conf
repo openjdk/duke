@@ -25,15 +25,11 @@
 project=duke
 
 [checks]
-error=author,committer,reviewers,executable,symlink
+error=author,committer,executable,symlink
 
 [census]
 version=0
 domain=openjdk.org
-
-[checks "reviewers"]
-reviewers=1
-ignore=duke
 
 [checks "committer"]
 role=committer
